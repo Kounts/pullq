@@ -1,2 +1,0 @@
-# pullq
-The amazing antinder
